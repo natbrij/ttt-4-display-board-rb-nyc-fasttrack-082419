@@ -6,4 +6,7 @@
     puts "   |   |   "
     puts "-----------"
     puts "   |   |   "
+
+    board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+    display_board(board)
   end
